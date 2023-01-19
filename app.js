@@ -7,5 +7,5 @@ submitButton.addEventListener("click", run)
 function run(event) {
     event.preventDefault()
 
-    console.log("zipCodeField.value")
+    console.log(zipCodeField.value)
 }
